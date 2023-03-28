@@ -1,0 +1,40 @@
+//
+//  Note.swift
+//  profileApp
+//
+//  Created by Sanoj on 23/03/23.
+//
+
+import Foundation
+
+
+                       ** Benefits/Advantages **
+
+
+SwiftUI is easier to learn and use than UIKit, especially for developers who are new to iOS development. SwiftUI uses a declarative syntax that is easier to read and understand, and it has fewer concepts and APIs to learn.
+                                                                
+SwiftUI code is more concise and declarative than UIKit code, which makes it easier to read and maintain. With SwiftUI, you can build your UI using simple statements that describe what you want to achieve, rather than having to write long blocks of imperative code.
+                                                                
+SwiftUI has better support for live previews, which makes it easier to design and iterate on your UI. With SwiftUI, you can see your changes in real-time as you make them, and you can even preview your UI on multiple devices and orientations at the same time.
+                                                                
+SwiftUI has better integration with other frameworks, such as Combine and RealityKit, which makes it easier to build more advanced features. With SwiftUI, you can use these frameworks to build features such as reactive programming, asynchronous tasks, and augmented reality, without having to deal with the complexity of UIKit.
+                                                                
+SwiftUI has better support for accessibility and localization, which makes it easier to build apps that are accessible and localized for different languages and regions. SwiftUI has built-in support for dynamic type, accessibility labels, and localization, which makes it easier to build apps that are accessible and localized for different languages and regions.
+                                                                
+SwiftUI has replaced Interface Builder with Canvas, an interactive interface editor. With Canvas, the visual part of your code is automatically generated, and any changes you make to your visual presentation elements will automatically appear in your code. This eliminates the need to use @IBOutlets and ensures that your application will not crash if you forget to update an association.
+                                                                
+In place of AutoLayout, SwiftUI uses layout elements such as HStack, VStack, ZStack, Groups, and Lists to define the layout of your views. These elements provide a more intuitive and reliable way to create layouts, as they always produce a valid layout and do not suffer from issues like ambiguous or unsatisfiable layouts.
+                                                                
+Additionally, SwiftUI has replaced storyboards with code, making it easier to create reusable views and avoid conflicts that can arise when working on a project as a team. Overall, SwiftUI offers a more efficient and intuitive approach to building user interfaces for iOS applications.
+                                                                
+                                                                
+                                                                
+                                                                
+
+
+
+
+
+
+
+

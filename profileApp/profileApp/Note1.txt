@@ -1,0 +1,34 @@
+//
+//  Note1.swift
+//  profileApp
+//
+//  Created by Sanoj on 23/03/23.
+//
+
+import Foundation
+
+                   **  Drawbacks/Disadvantages  **
+
+One major drawback of SwiftUI is that it currently only supports iOS 13 and Xcode 11. This means that if you choose to use SwiftUI in your app, you will have to abandon users of older versions of iOS. This can be a significant issue for developers who want to reach as wide an audience as possible, as there are still many users who have not yet upgraded to the latest version of iOS.
+
+SwiftUI is a newer framework than UIKit, so it has less documentation and community support. While the SwiftUI community is growing rapidly, it is still smaller than the UIKit community, which means that you may have a harder time finding answers to your questions or solutions to your problems.
+
+SwiftUI is not fully backward-compatible with UIKit, so you may need to re-implement certain features if you are migrating an existing app from UIKit to SwiftUI. While SwiftUI has many features that are similar to UIKit, it also has some fundamental differences, which means that you may need to re-implement certain features or use UIKit or other frameworks to achieve certain effects.
+                                                                                                            
+SwiftUI does not have as many customization options as UIKit, so you may need to use UIKit or other frameworks to achieve certain effects. While SwiftUI has many built-in views and controls, it does not have as many customization options as UIKit, which means that you may need to use UIKit or other frameworks to achieve more advanced or customized layouts.
+                                                                                                            
+SwiftUI has less flexibility than UIKit, so you may need to use UIKit or other frameworks to achieve more complex or customized layouts.
+                                                                                                            
+SwiftUI has less support for legacy iOS versions, so you may need to use UIKit or other frameworks to support older devices.
+                                                                                        
+Another issue with SwiftUI is that it is relatively new, and there is not yet a large volume of information or solutions available on platforms like Stack Overflow. This can make it more difficult to resolve complex issues that you may encounter while using SwiftUI.
+                                                                                                            
+Finally, SwiftUI does not currently allow you to examine the view hierarchy in Xcode Previews. This can make it more difficult to debug and troubleshoot issues with your app’s layout and behavior.
+                                                                                                            
+Overall, while SwiftUI offers many benefits and improvements over UIKit, it also has some limitations and drawbacks that developers should be aware of.
+
+
+
+
+
+
